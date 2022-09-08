@@ -12,29 +12,3 @@ int main(void)
         printf("with proper grammar, but the outcome is a piece of art,\n");
         return (0);
 }
-^C
-
-
-
-
-clear
-
-
-
-
-
-
-
-
-
-ghi=31
-
-:wq
-clear
-clear
-
-
-
-
-
-cd ..
